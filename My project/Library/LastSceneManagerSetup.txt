@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/P03_d.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
