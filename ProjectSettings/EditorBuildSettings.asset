@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Milestone1_Mockup.unity
+    path: Assets/Scenes/Final_Project.unity
     guid: 4c25f9ab20a9e5b49bf21a803540fae9
   m_configObjects: {}
